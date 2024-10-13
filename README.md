@@ -1,12 +1,7 @@
-## Fecha : 
-13/10/2024
-## Alumno: 
-Pablo Aguinaga
-## Profesor: 
-José Antonio Gascón Pinedo
-## Dataset : 
-Airbnb + Nveces alquilado
-
+**Fecha:** 13/10/2024
+**Alumno:** Pablo Aguinaga
+**Profesor:** José Antonio Gascón Pinedo
+**Dataset:** Airbnb + Nveces alquilado
 
 
 ## Comentarios: 
